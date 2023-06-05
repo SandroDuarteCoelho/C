@@ -1,2 +1,2 @@
 # C
- vários exercicios
+ exercicios de aprendizagem (arranjos, combinações, fibonacci, operações aritmeticas, horas/minutos/segundos)
